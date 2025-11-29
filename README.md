@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+## About Me
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)\
+I am a game producer, UI designer and programmer, and Computer Science student at DigiPen Institute of Technology who loves working where technology and creativity overlap.
+
+Bringing teams together to build responsive, player focused experiences is my passion.
+
+I have led cross disciplinary teams on projects like Bring Da Beat Back, a 3D rhythm based beat ‘em up in Unreal Engine, balancing production work with hands on UI implementation. Before that, I helped coordinate development on Tileverse and RE:Pent in custom C/C++ engines, and built my own Unity prototype, Frogology, to explore quest design and research style UI. Across all of these projects, I focus on clear communication, realistic scope, and creating satisfying, readable gameplay for players.
+
+I am grateful for every opportunity I have had to learn from my teams and projects so far, and I am always eager to keep growing, pick up new skills, and take on fresh challenges in game development.
 
 <!--
 **allensze/allensze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
