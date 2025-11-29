@@ -1,26 +1,34 @@
-# Hi there 👋
-## About Me
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)\
-I am a game producer, UI designer and programmer, and Computer Science student at DigiPen Institute of Technology who loves working where technology and creativity overlap.
+# Allen Sze · Game Producer / UI Programmer
 
-Bringing teams together to build responsive, player focused experiences is my passion.
+Hey! I’m Allen, a DigiPen CS & Game Design student who loves:
+- Leading teams through messy prototypes into playable builds
+- Building combat systems, UI, and tools that make games feel responsive
+- Turning vague design ideas into concrete tasks and milestones
 
-I have led cross disciplinary teams on projects like Bring Da Beat Back, a 3D rhythm based beat ‘em up in Unreal Engine, balancing production work with hands on UI implementation. Before that, I helped coordinate development on Tileverse and RE:Pent in custom C/C++ engines, and built my own Unity prototype, Frogology, to explore quest design and research style UI. Across all of these projects, I focus on clear communication, realistic scope, and creating satisfying, readable gameplay for players.
+## 🎮 Current Main Project
+### Bring Da Beat Back
+3D rhythm-based beat 'em up built in Unreal Engine.
 
-I am grateful for every opportunity I have had to learn from my teams and projects so far, and I am always eager to keep growing, pick up new skills, and take on fresh challenges in game development.
+- Role: Producer + UI Designer/Programmer  
+- Team: 16 people across design, engineering, art, and audio  
+- Focus: Beat-synced combat, readable HUD, clear onboarding
+\
+## 🕹 Past Projects
 
-<!--
-**allensze/allensze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Tileverse** – Custom-engine 2D isometric tile-laying game (Producer / Designer, C/C++)  
+- **RE:Pent** – 2D roguelite platformer (UI & Systems Programmer, C)  
+- **Bastion Beat** – 2D RPG combat system sim (Combat and UI systems, C)  
+- **Frogology** – 3D open-world quest game (UI Designer/Programmer, Unity C#)
+\
+## 🔍 Code Highlights
 
-Here are some ideas to get you started:
+### Combat System Simulation (C / Custom Engine)
+- 🧠 [CombatManager.cs](https://github.com/allensze/Combat-System-Simulation/blob/main/CombatManager.cs)
+- 🎯 [AutoplayStateManager.cs](https://github.com/allensze/Combat-System-Simulation/blob/main/AutoplayStateManager.cs)
+- 🎮 [PlayerActions.cs](https://github.com/allensze/Combat-System-Simulation/blob/main/PlayerActions.cs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in touch
+
+- 📧 **Email:** allen.sze@digipen.edu  
+- 💼 **LinkedIn:** [linkedin.com/in/allen-sze](https://linkedin.com/in/allen-sze)  
+- 🎮 **itch.io:** [neutralsgambit.itch.io](https://neutralsgambit.itch.io)
