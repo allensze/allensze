@@ -12,14 +12,14 @@ Hey! I’m Allen, a DigiPen CS & Game Design student who loves:
 - Role: Producer + UI Designer/Programmer  
 - Team: 16 people across design, engineering, art, and audio  
 - Focus: Beat-synced combat, readable HUD, clear onboarding
-\
+
 ## 🕹 Past Projects
 
 - **Tileverse** – Custom-engine 2D isometric tile-laying game (Producer / Designer, C/C++)  
 - **RE:Pent** – 2D roguelite platformer (UI & Systems Programmer, C)  
 - **Bastion Beat** – 2D RPG combat system sim (Combat and UI systems, C)  
 - **Frogology** – 3D open-world quest game (UI Designer/Programmer, Unity C#)
-\
+
 ## 🔍 Code Highlights
 
 ### Combat System Simulation (C / Custom Engine)
