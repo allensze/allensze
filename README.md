@@ -22,7 +22,7 @@ Hey! I’m Allen, a DigiPen CS & Game Design student who loves:
 
 ## 🔍 Code Highlights
 
-### Combat System Simulation (C / Custom Engine)
+### Combat System Simulation
 - 🧠 [CombatManager.cs](https://github.com/allensze/Combat-System-Simulation/blob/main/CombatManager.cs)
 - 🎯 [AutoplayStateManager.cs](https://github.com/allensze/Combat-System-Simulation/blob/main/AutoplayStateManager.cs)
 - 🎮 [PlayerActions.cs](https://github.com/allensze/Combat-System-Simulation/blob/main/PlayerActions.cs)
